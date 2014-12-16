@@ -1,13 +1,6 @@
 var currentTab = null;
 var previousTabs = new Array();
 
-var node = 
-{
-	var element;
-	var children = new Array();
-	var parent;
-};
-
 $(document).ready(function() 
 {
 	$("p").each(function()
