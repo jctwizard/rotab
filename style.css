@@ -1,0 +1,42 @@
+body
+{
+	font-family: Palatino;
+	background-color: #333333;
+}
+
+#header
+{
+	float: right;
+	clear: both;
+	margin-right: 5px;
+	margin-top: -5px;
+
+	font-size: 1.25em;
+	text-decoration: underline;
+	color: #EEEEEE;
+}
+
+#back
+{
+	float: right;
+	clear: both;
+	margin-right: 5px;
+	margin-top: 2px;
+
+	color: #CCFFFF;
+	cursor: pointer; 
+}
+
+p
+{
+	margin-left: 5px;
+	margin-top: 5px;
+
+	color: #EEEEEE;
+}
+
+.link
+{
+	color: #CCFFFF;
+	cursor: pointer; 
+}
