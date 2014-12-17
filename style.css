@@ -1,27 +1,22 @@
 body
 {
+	text-align: center;
 	font-family: Palatino;
 	background-color: #333333;
 }
 
 #header
 {
-	float: right;
-	clear: both;
-	margin-right: 5px;
-	margin-top: -5px;
+	position: absolute;
 
+	color: #EEEEEE;
 	font-size: 1.25em;
 	text-decoration: underline;
-	color: #EEEEEE;
 }
 
 #back
 {
-	float: right;
-	clear: both;
-	margin-right: 5px;
-	margin-top: 2px;
+	position: absolute;
 
 	color: #CCFFFF;
 	cursor: pointer; 
@@ -29,8 +24,7 @@ body
 
 p
 {
-	margin-left: 5px;
-	margin-top: 5px;
+	position: absolute;
 
 	color: #EEEEEE;
 }
